@@ -1,0 +1,4 @@
+Inspection: Using React Developer Tools, inspected Counter component.
+Diagnosis: Identified that the count state was not updating.
+Solution: Fixed the setCount logic in Counter.js.
+Verification: Tested the application, and count now increments correctly.
